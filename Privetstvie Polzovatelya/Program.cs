@@ -1,5 +1,5 @@
-﻿Console.WriteLine("VVedite Vashe Imya");
+﻿Console.Write("VVedite Vashe Imya");
 String username = Console.ReadLine();
-Console.WriteLine("Privet, ");
-Console.WriteLine(username);
+Console.Write("Privet, ");
+Console.Write(username);
 
