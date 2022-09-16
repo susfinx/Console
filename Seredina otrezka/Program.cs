@@ -8,7 +8,7 @@ int xa = 30, ya = 1,
     xc = 60, yc = 30;
 
 
-Console.SetCursorPosition(xa, ya);
+Console.SetCursorPosition(xa,ya);
 Console.WriteLine("+");
 
 Console.SetCursorPosition(xb,yb);
@@ -17,7 +17,7 @@ Console.WriteLine("+");
 Console.SetCursorPosition(xc,yc);
 Console.WriteLine("+"); 
 
-int x = xa, y = ya;
+int x = xa, y = yc;
 
 int Count = 0;
 
